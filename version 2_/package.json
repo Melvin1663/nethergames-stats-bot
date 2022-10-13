@@ -1,0 +1,35 @@
+{
+  "name": "nethergames-statistics-bot-v2",
+  "version": "2.0.0",
+  "description": "Nethergames statistics bot version 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "16.6.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melvin1663/nethergames-statistics-bot-v2.git"
+  },
+  "author": "JohnMelvinYT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Melvin1663/nethergames-statistics-bot-v2/issues"
+  },
+  "homepage": "https://github.com/Melvin1663/nethergames-statistics-bot-v2#readme",
+  "dependencies": {
+    "canvas": "^2.9.0",
+    "chart.js": "^3.7.1",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "hhmmss": "^1.0.0",
+    "jaro-winkler": "^0.2.8",
+    "mongoose": "^6.0.9",
+    "node-fetch2": "^1.6.3",
+    "sourcebin": "^4.2.5",
+    "tcp-ping-port": "^1.0.1",
+    "util": "^0.12.4"
+  }
+}
