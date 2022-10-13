@@ -18,7 +18,7 @@ Thanks so much for the support, I hope you like my code :)
 
 # Extra stuff
 
-**Contributers: [New#6969](https://discord.com/users/512638114687352832), [oAnshul#9569](https://discord.com/users/930119015785959474)**  
+**Contributors: [New#6969](https://discord.com/users/512638114687352832), [oAnshul#9569](https://discord.com/users/930119015785959474)**  
 **Satistics: [NetherGames API](https://docs.nethergames.org/)**  
 **Made With: [Visual Studio Code](https://code.visualstudio.com/)**  
 **Run Time: [NodeJS](https://nodejs.org)**  
