@@ -1,0 +1,13 @@
+module.exports = {
+    name: 'stats',
+    aliases: ['statistics', 'ngstats', 'ng'],
+    description: "Shows NetherGames Overall Statistics",
+    cooldown: 5,
+    async execute(client, message, cmd, args, Discord) {
+      const res = await require('../../functions/command_functions/nethergames/stats')(Discord, client);
+      if (!res) return message.reply('Error: Unknown Error');
+      if (typeof (res) == 'string') return message.reply(res)
+      else if (typeof (res) == 'object') return message.reply({ embeds: [res] })
+      else return message.reply('Error: Failed to execute command')
+    }
+  }

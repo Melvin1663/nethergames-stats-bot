@@ -1,0 +1,174 @@
+{
+    "1.0": {
+        "date": "July 9, 2021",
+        "description": "- Player command\n- Guild command\n- Ping command"
+    },
+    "1.1": {
+        "date": "July 12, 2021",
+        "description": "- Factions command\n- Help command\n- Info command"
+    },
+    "1.2": {
+        "date": "July 15, 2021",
+        "description": "- Made player names as hyperlinks in guild command\n- More information in player command\n- Ability to get a players game statistics by appending `?game` in player command"
+    },
+    "1.3": {
+        "date": "July 29, 2021",
+        "description": "- Made use of Discord timestamps\n- Made use of NetherGames API Keys\n- Servers command\n- Removed More stats on player command\n- Customizable Prefixes"
+    },
+    "1.4": {
+        "date": "August 2, 2021",
+        "description": "- Bug Fixes\n- Guild tag color emojis\n- Added commands cooldown system"
+    },
+    "1.5": {
+        "date": "August 10, 2021",
+        "description": "- Leaderboard command\n- Slash commands\n- Bot is now verified"
+    },
+    "1.6": {
+        "date": "August 14, 2021",
+        "description": "- Leaderboard now has buttons!\n- Bug fixes"
+    },
+    "1.7": {
+        "date": "August 16, 2021",
+        "description": "- Added online status in guild command"
+    },
+    "1.8": {
+        "date": "September 1, 2021",
+        "description": "- Removed prefix commands"
+    },
+    "1.9": {
+        "date": "September 3, 2021",
+        "description": "- Re added prefix commands"
+    },
+    "2.0": {
+        "date": "November 7, 2021",
+        "description": "- Bot Rewrite public testing\n- `ns!stats` command"
+    },
+    "2.1": {
+        "date": "November 12, 2021",
+        "description": "- Ability to link players, guilds, and factions\n- Bug Fixes and improvements\n- Re added help command"
+    },
+    "2.2": {
+        "date": "November 15, 2021",
+        "description": "- Added context menus for Links\n- And fixed a few crashes"
+    },
+    "2.3": {
+        "date": "November 16, 2021",
+        "description": "- Removed `ns!stats` command"
+    },
+    "2.4": {
+        "date": "November 23, 2021",
+        "description": "- NGPing command"
+    },
+    "2.5": {
+        "date": "December 20, 2021",
+        "description": "- Skin command\n- Button \"Game Leaderboard Stats\" for Player command\n- Added Levels & XP Info for Guilds command\n- Bot has a winter profile picture\n- Fixed embed thumbnails showing Steve\n- \"Show SKin\" Button for Player command"
+    },
+    "2.6": {
+        "date": "December 21, 2021",
+        "description": "- Re added Factions command\n- Custom Error messages for Status 404 & 503\n- Changed global embed colors to #03bafc\n- Link function for Skins command"
+    },
+    "2.7": {
+        "date": "December 21, 2021",
+        "description": "- Added a select menu to `ns!p` to filter stats\n- Added buttons to gamemode stats embeds\n- Synced gamemode stats embed colors\n- Added a select menu to `ns!s` to filter servers\n- Fixed Guild Tag showing `null`\n- Fixed Guild Leader sometimes showing `null`"
+    },
+    "2.8": {
+        "date": "December 22, 2021",
+        "description": "- Fixed Player Game leaderboard filter showing \"Player unspecified\"\n- Global Leaderboard command!\n- Support for gamemode `Conquests` \n- End of support for gamemode `Races`, and `TNT Run`\n- Removed Global Leaderboard `Deaths`\n- Bug Fixes\n- Improvements"
+    },
+    "2.9": {
+        "date": "December 23, 2021",
+        "description": "\n- Fixed Ping command\n- Removed NGPing command \n- New Select menu for Global LEaderboard command to view stats from lb\n- Added leaderboards `Factions Best Streak`, `Factions Streak` and `Factions Kills` to `ns!lb`\n- New Command: `ns!v` used to show links of where to vote for bot and NG\n- Prettyfied Server status for Player command\n- Moved Log in-out dates to main embed\n- Bug Fixes"
+    },
+    "2.9.1": {
+        "date": "December 30, 2021",
+        "description": "- New Years edition Bot avatar"
+    },
+    "3.0": {
+        "date": "January 9, 2022",
+        "description": "- Normal Bot avatar is back\n- New commands: `ns!wp`, `ns!pgl`, `ns!pl`, `ns!wins`\n- Changelog command\n- Error handling improvements"
+    },
+    "3.1": {
+        "date": "February 7, 2022",
+        "description": "- K/D and W/L Ratio Summaries\n- \"View More\" Button in Player Global Leaderboard\n- Bug Fixes\n- New Online/Offline Icon\n- Removed CTF, BB, and BR"
+    },
+    "3.2": {
+        "date": "February 22, 2022",
+        "description": "- NextTier, NextGuildLevel and NextLevel command\n- Bug Fixes"
+    },
+    "3.3": {
+        "date": "March 9, 2022",
+        "description": "- Search Command\n- Game Leaderboard Command\n- Status Command"
+    },
+    "3.3.1": {
+        "date": "March 10, 2022",
+        "description": "- Stream Command\n- Fixed the Guild XP Leaderboard\n- Bug Fixes"
+    },
+    "3.3.2": {
+        "date": "March 11, 2022",
+        "description": "- Optimizations"
+    },
+    "3.4": {
+        "date": "March 13, 2022",
+        "description": "- More Optimizations\n- Track Command\n- CSV Command"
+    },
+    "3.5": {
+        "date": "March 15, 2022",
+        "description": "- Bug Fixes\n- Status + Location feature in Guild and Factions command\n- Switched User Agents for Post Requests"
+    },
+    "3.6": {
+        "date": "March 16, 2022",
+        "description": "- Bug Fixes\n- Decimals in Players Level\n- Historical Graphs (Beta)\n- Functional CSV command"
+    },
+    "3.6.1": {
+        "date": "March 17, 2022",
+        "description": "- Buttons for Guild command!\n- Bug Fixes"
+    },
+    "3.7": {
+        "date": "March 28, 2022",
+        "description": "- NextGuildTag command\n- Bug Fixes\n- WinsSince command\n- Code Cleaning"
+    },
+    "3.7.1": {
+        "date": "March 29, 2022",
+        "description": "- Bug Fixes :D\n- More Code Cleaning\n- New Buton for Guild Embeds"
+    },
+    "3.8": {
+        "date": "May 9, 2022",
+        "description": "- Xp to Lvl and Lvl to Xp Converter\n- New \"Did you mean\" feature\n- Massive Code Cleaning\n- Show Leader button on faction cmd\n - Percentages on \"Next\" Commands\n- Split Warnings and Punishments command\n- Lots of Optimizations\n- Fixed Faction Leaderboards\n- New \"Progress\" Command\n- No more ? in \"Next* Slash Commands\"\n- Player link on some Embed Authors\n- Fixed \"Player Global Leaderboard\" Command\n- Bug Fixes\n- Button \"Progress\" for Player command"
+    },
+    "3.8.1": {
+        "date": "June 13, 2022",
+        "description": "- Bug Fixes :D\n- Replaced All time Avg Xp/Day with Last 10 days Avg Xp/Day in Guild cmd\n- `?lastmonth` in WinsSince command\n- Simplified embeds"
+    },
+    "3.8.2": {
+        "date": "June 16, 2022",
+        "description": "- Updated Advance Embed\n- Fixed Rounding Issue in Progress command\n- Hello New#2855\n- Fixed Leaderboard Bad Request\n- Fixed Crash while fetching Leaderboards\n- Changed text from \"Best Game\" to \"Mains\"\n- NGPing command is back! with more accurate ping times\n- Fixed Guild Command with Locations"
+    },
+    "3.8.3": {
+        "date": "June 20, 2022",
+        "description": "- \"GuildWins\" Command\n- New Look for Progress Bars\n- Now using Guild IDs to track Guilds\n- Hyperlinks in Wins Summary\n- Bug Fixes :D"
+    },
+    "3.8.4": {
+        "date": "June 22, 2022",
+        "description": "- Formatted Times for Parkour Leaderboard\n- Added decimals in K/DR Leaderboard\n- Fixed Guild Leaders showing N/A in Guild Wins command\n- Added a Download button in Skin command\n- Fixed Guild Average XP\n- Fixed Game Leaderboard Titles\n- Added Guild ID in Guild Command"
+    },
+    "3.8.5": {
+        "date": "July 21, 2022",
+        "description": "- Added Interaction authors\n- Improved Player Game leaderboard command\n- Added Statuses field in player command"
+    },
+    "3.8.6": {
+        "date": "July 23, 2022",
+        "description": "- Added more information in Advanced player button\n- Player Flags Utilization\n- Fixed `Expires 53 years ago` in Punishments cmd"
+    },
+    "3.8.7": {
+        "date": "July 25, 2022",
+        "description": "- W/LR Leaderboards\n- Quick Stats cmd\n- New emojis"
+    },
+    "3.9": {
+        "date": "August 15, 2022",
+        "description": "- Fixed Graph command (Missing data)\n- Fixed CSV command (Missing data)\n- Added support for 500 ranks in leaderboard commands\n- AK/AD ratio and All Kills and Deaths fields in Player command\n- Now using Caspers Tracking system\n- Bug fixes as always\n- Titan expiry date in player command (If they have titan)"
+    },
+    "3.9.1": {
+        "date": "August 20, 2022",
+        "description": "- (ns!pp) Public beta release on image commands"
+    }
+}
