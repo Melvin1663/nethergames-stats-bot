@@ -1,7 +1,7 @@
 # NetherGames Statistics Bot
 
 ![Logo](https://cdn.discordapp.com/avatars/863712579599597578/fce6122715e2c3ebf9a6e8027565d6e6.png)<br>
-**By Melvin#5155**
+**by Melvin#5155**
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bot has been operational for over a year now.
@@ -16,6 +16,9 @@ I'm sorry if this made you sad, if you have experiences in the field of Discord 
 If not, then you can use other Discord Bots that offer similar functions like the Official NetherGames Bot found in the Official NetherGames Discord Server.
 Thanks so much for the support, I hope you like my code :)
 
+# Extra stuff
+
+**Contributers: [New#6969](https://discord.com/users/512638114687352832), [oAnshul#9569](https://discord.com/users/930119015785959474)**  
 **Satistics: [NetherGames API](https://docs.nethergames.org/)**  
 **Made With: [Visual Studio Code](https://code.visualstudio.com/)**  
 **Run Time: [NodeJS](https://nodejs.org)**  
@@ -27,12 +30,15 @@ Thanks so much for the support, I hope you like my code :)
 
 **Extra Satatistics**  
 &nbsp;● Commands executed from Jan 2022 to Sep 2022: ~**473,094**  
-&nbsp;&nbsp;➜ Jan: **24,978** 🟢  
-&nbsp;&nbsp;➜ Feb: **53,599** 🟢  
-&nbsp;&nbsp;➜ Mar: **69,056** 🟢  
-&nbsp;&nbsp;➜ Apr: **59,098** 🔴  
-&nbsp;&nbsp;➜ May: **53,991** 🔴  
-&nbsp;&nbsp;➜ Jun: **59,466** 🟢  
-&nbsp;&nbsp;➜ July: **74,895** 🟢  
-&nbsp;&nbsp;➜ Aug: **52,972** 🔴  
-&nbsp;&nbsp;➜ Sep: **25,039** 🔴  
+&nbsp;&nbsp;➜ Jan: **24,978**   
+&nbsp;&nbsp;➜ Feb: **53,599**   
+&nbsp;&nbsp;➜ Mar: **69,056**   
+&nbsp;&nbsp;➜ Apr: **59,098**   
+&nbsp;&nbsp;➜ May: **53,991**   
+&nbsp;&nbsp;➜ Jun: **59,466**   
+&nbsp;&nbsp;➜ July: **74,895**   
+&nbsp;&nbsp;➜ Aug: **52,972**   
+&nbsp;&nbsp;➜ Sep: **25,039**   
+
+**Server count history**  
+![history](https://cdn.discordapp.com/attachments/957460872928841738/1029759752089124955/unknown.png)
