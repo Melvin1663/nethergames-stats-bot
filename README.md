@@ -18,7 +18,7 @@ Thanks so much for the support, I hope you like my code :)
 
 # Extra stuff
 
-**Contributors: [New#6969](https://discord.com/users/512638114687352832), [oAnshul#9569](https://discord.com/users/930119015785959474)**  
+**Contributers: [New#6969](https://discord.com/users/512638114687352832), [oAnshul#9569](https://discord.com/users/930119015785959474)**  
 **Satistics: [NetherGames API](https://docs.nethergames.org/)**  
 **Made With: [Visual Studio Code](https://code.visualstudio.com/)**  
 **Run Time: [NodeJS](https://nodejs.org)**  
@@ -28,7 +28,7 @@ Thanks so much for the support, I hope you like my code :)
 &nbsp;**● [NetherGames](https://discord.gg/ng)**  
 &nbsp;**● [Support Server](https://discord.gg/aMmBRAQUDD)**
 
-**Extra Satatistics**  
+**Commands Executed**  
 &nbsp;● Commands executed from Jan 2022 to Sep 2022: ~**473,094**  
 &nbsp;&nbsp;➜ Jan: **24,978**   
 &nbsp;&nbsp;➜ Feb: **53,599**   
