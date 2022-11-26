@@ -1,0 +1,2923 @@
+[{
+  "_id": {
+    "$oid": "6191d608e57989032bb77690"
+  },
+  "userID": "731765420897599519",
+  "data": {
+    "player": "johnmelvinyt",
+    "guild": "clover"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6191e22524d24ba8b24aedfb"
+  },
+  "userID": "758769948650242088",
+  "data": {
+    "player": "xleqn1002"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619b774097eb5f5d036450c0"
+  },
+  "userID": "811497313821786143",
+  "data": {
+    "player": "player"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619bc71daea9798d3bc6ca2b"
+  },
+  "userID": "801372262951026718",
+  "data": {
+    "player": "luke f2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619edfcfa9fc0ee8bd2ff944"
+  },
+  "userID": "754236387963830332",
+  "data": {
+    "guild": "cosmic"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a14b46be23dad72ca70bfc"
+  },
+  "userID": "580490043932803089",
+  "data": {
+    "player": "iITheNub20Ii"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a924fd32d1fbd48a2499fa"
+  },
+  "userID": "733812376062656552",
+  "data": {
+    "guild": "golem"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ac51633a692459792ca173"
+  },
+  "userID": "817681654452977674",
+  "data": {
+    "player": "koalpvp"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ae6263d51636d52a91e656"
+  },
+  "userID": "911220582186647592",
+  "data": {
+    "player": "arvin"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61afae677829dbfa3359d320"
+  },
+  "userID": "732981949617930351",
+  "data": {
+    "player": "Elit3charge"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b8051dc1a4fece7df0bc75"
+  },
+  "userID": "857927451609792513",
+  "data": {
+    "player": "Doharbdjr"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bcbb1b9879f16702ed5e8e"
+  },
+  "userID": "773982259266846752",
+  "data": {
+    "faction": "Arceus"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c032cf5e34dc21fdddb92e"
+  },
+  "userID": "726656796890103839",
+  "data": {
+    "player": "coarsecape37162",
+    "guild": "forkinium"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c033505e34dc21fdddb939"
+  },
+  "userID": "865112236531646464",
+  "data": {
+    "player": "unkilliable5005"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c04bbf5e34dc21fdddb971"
+  },
+  "userID": "748852037545885706",
+  "data": {
+    "guild": "boopers",
+    "player": "anshul master"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c07d715e34dc21fdddb9a5"
+  },
+  "userID": "752069121876951123",
+  "data": {
+    "player": "clarenz0704"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c1344b611da713060c2b22"
+  },
+  "userID": "505550962274861091",
+  "data": {
+    "player": "beepvp"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cd57c55edf2ac7c2ba1ea9"
+  },
+  "userID": "795901445799018496",
+  "data": {
+    "guild": "empire",
+    "player": "tekdays"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cdf3165edf2ac7c2ba1f1d"
+  },
+  "userID": "555032498372083724",
+  "data": {
+    "player": "FlakernYT",
+    "guild": "sanctuary"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cec3c947658fd3bd3584e7"
+  },
+  "userID": "396257432919212033",
+  "data": {
+    "guild": "france",
+    "player": "floyo8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cf58fa47658fd3bd358553"
+  },
+  "userID": "709143165072048170",
+  "data": {
+    "player": "tiffers03",
+    "guild": "cosmic"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d0ebb7c395e4c8bb1eefdc"
+  },
+  "userID": "796045200908091434",
+  "data": {
+    "guild": "Wild"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d4380bd8627801fe9fe622"
+  },
+  "userID": "830870391890116618",
+  "data": {
+    "player": "bigballer8899"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d4e03bd8627801fe9fe678"
+  },
+  "userID": "924849052561059871",
+  "data": {
+    "player": "xleqn1002",
+    "guild": "Boopers"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d7726b57b2f7864d2c5c1a"
+  },
+  "userID": "757230735420555315",
+  "data": {
+    "player": "DoiGuy"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d7727957b2f7864d2c5c1e"
+  },
+  "userID": "859907137647280168",
+  "data": {
+    "player": "aRandomSweat"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d7728e57b2f7864d2c5c22"
+  },
+  "userID": "803792135773224980",
+  "data": {
+    "player": "Utilebadger3373"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dc459a939f103a460bab7c"
+  },
+  "userID": "744920413343056033",
+  "data": {
+    "player": "Arshia8888"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dd84f7f60b98f43a30a67e"
+  },
+  "userID": "805395084584943636",
+  "data": {
+    "player": "Pkfire085596"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dd86ccf60b98f43a30a684"
+  },
+  "userID": "815268340963475536",
+  "data": {
+    "player": "xhimanshuxd",
+    "guild": "injection"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61de5214f60b98f43a30a708"
+  },
+  "userID": "843169971558154280",
+  "data": {
+    "player": "Gwppkfire08"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e29451277afd61501b7fee"
+  },
+  "userID": "765049848859983895",
+  "data": {
+    "player": "xturb0xd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e2b27a277afd61501b801f"
+  },
+  "userID": "857497322292510720",
+  "data": {
+    "player": "xpm067",
+    "guild": "hikclient"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e40d5b87a891b1ee37fc41"
+  },
+  "userID": "722503581722345492",
+  "data": {
+    "player": "THErealDIVIJ"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e8f0671921dddd88be1b25"
+  },
+  "userID": "707138920068022376",
+  "data": {
+    "player": "xada06",
+    "guild": "blockgamenonztwo"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ea40ed35301accf69f2416"
+  },
+  "userID": "632198532585226240",
+  "data": {
+    "player": "OutDuke5397"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ead61335301accf69f24b1"
+  },
+  "userID": "892711839828426752",
+  "data": {
+    "player": "LEGEND HANGGAME"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f131d7e24c728a03ef6972"
+  },
+  "userID": "672848425074819084",
+  "data": {
+    "player": "i am dumb2205",
+    "guild": "cosmic"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f15d0ee24c728a03ef69a6"
+  },
+  "userID": "814531724671189067",
+  "data": {
+    "player": "lgbtqminki"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f562e2907b47de655332fc"
+  },
+  "userID": "723928411709636630",
+  "data": {
+    "player": "aceofspices",
+    "guild": "Calamity"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f7188a27285f8ddb29ca8a"
+  },
+  "userID": "588944756835352603",
+  "data": {
+    "player": "NewsWeekly"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f8cee7b4c3c1e6b755218d"
+  },
+  "userID": "712681959431733318",
+  "data": {
+    "player": "Soul YT7985",
+    "guild": "Formula"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fb8b80dc07c637ae07d51d"
+  },
+  "userID": "773041207303602222",
+  "data": {
+    "faction": "ban"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffaa3ae5b1c675cd2185d6"
+  },
+  "userID": "712333175174725668",
+  "data": {
+    "player": "equablesloth762",
+    "guild": "clover"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffab3ce5b1c675cd2185db"
+  },
+  "userID": "512638114687352832",
+  "data": {
+    "player": "new 6969",
+    "guild": "clover"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620113a94fc68108bd408f9d"
+  },
+  "userID": "736789499736227851",
+  "data": {
+    "player": "Sanki Insaan561",
+    "guild": "Wild"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6201327d4fc68108bd408ff3"
+  },
+  "userID": "927196011355586592",
+  "data": {
+    "player": "xTwirlyz",
+    "guild": "Wild"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620132954fc68108bd408ff9"
+  },
+  "userID": "502099111391133707",
+  "data": {
+    "player": "hiksaurus"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62020469bda9b68e76a23eed"
+  },
+  "userID": "704235354001113099",
+  "data": {
+    "player": "AaronTheWolf296"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62022aa83ccc4080110a3c7b"
+  },
+  "userID": "920296852233011220",
+  "data": {
+    "player": "Royalsher3085"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62023a7c3ccc4080110a3cc1"
+  },
+  "userID": "762170453661319169",
+  "data": {
+    "player": "KingMayur6957"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62023b6d3ccc4080110a3cc8"
+  },
+  "userID": "930119015785959474",
+  "data": {
+    "guild": "boopers",
+    "player": "ANSHUL MASTER"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62023bfa3ccc4080110a3ccd"
+  },
+  "userID": "758376283234500640",
+  "data": {
+    "guild": "Empire",
+    "player": "thenetheritefan"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62023c1a3ccc4080110a3cd4"
+  },
+  "userID": "875434550883409980",
+  "data": {
+    "guild": "cocoa",
+    "player": "royalsher3085"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6203b67a07bf563e620c792b"
+  },
+  "userID": "760066447543107585",
+  "data": {
+    "player": "Tag6211936"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6203b70007bf563e620c7932"
+  },
+  "userID": "708968514962194522",
+  "data": {
+    "player": "Endermenkilling",
+    "guild": "Forkinium"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6203cadc07bf563e620c796c"
+  },
+  "userID": "776429628276998176",
+  "data": {
+    "player": "iobsidiqn",
+    "guild": "forkinium ?true"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6203efd141b35ddbf616b733"
+  },
+  "userID": "903161406281646101",
+  "data": {
+    "player": "Op Sweat3805"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6203fee841b35ddbf616b755"
+  },
+  "userID": "876804245112913920",
+  "data": {
+    "guild": "GGMim",
+    "player": "GGMim"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620454ba41b35ddbf616b7a4"
+  },
+  "userID": "676349104347152385",
+  "data": {
+    "player": "EggCrafted",
+    "guild": "forkinium"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6204c92e41b35ddbf616b806"
+  },
+  "userID": "930368753357692948",
+  "data": {
+    "player": "NARUTO53255"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6204ecd841b35ddbf616b81d"
+  },
+  "userID": "745644254507827228",
+  "data": {
+    "player": "SubtoDRAGYT"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6204eeca41b35ddbf616b823"
+  },
+  "userID": "836429227670241370",
+  "data": {
+    "player": "nitinpro5649"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62054f4b517e2c97911f9e1a"
+  },
+  "userID": "900477871599001660",
+  "data": {
+    "player": "ItzNotIwan",
+    "guild": "GHOSTS I"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62060d399b187c8e1109b7f8"
+  },
+  "userID": "767991071862423582",
+  "data": {
+    "player": "gokiryutsuki"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62062ddf9b187c8e1109b834"
+  },
+  "userID": "441189979029504000",
+  "data": {
+    "player": "REAPERSENSEI415"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620631829b187c8e1109b83e"
+  },
+  "userID": "757098163021676584",
+  "data": {
+    "player": "xFireAce69"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6207dff5c0ce6528bca08602"
+  },
+  "userID": "565528705972305930",
+  "data": {
+    "player": "VerniZarch"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620a2307a7119e62c80a820d"
+  },
+  "userID": "877194561296932914",
+  "data": {
+    "guild": "sith",
+    "player": "mrgamer6754"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620a5855a7119e62c80a8231"
+  },
+  "userID": "553132902091718656",
+  "data": {
+    "player": "PXDmc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620b1f75ce10b8be2df4bcd6"
+  },
+  "userID": "942814803204915251",
+  "data": {
+    "player": "royalsher3085",
+    "guild": "cocoa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620b7464ce10b8be2df4bd27"
+  },
+  "userID": "754287366252003418",
+  "data": {
+    "player": "Cindysella032",
+    "guild": "krypto ii"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620cce6a45f08f9ead1d02f8"
+  },
+  "userID": "708067295468978237",
+  "data": {
+    "player": "TheActualMj"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620ccebf45f08f9ead1d02fe"
+  },
+  "userID": "883094862893821974",
+  "data": {
+    "player": "MoonLight3137",
+    "guild": "ZeroLife"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620cfaee45f08f9ead1d0350"
+  },
+  "userID": "879526038776999977",
+  "data": {
+    "guild": "elders",
+    "player": "aovuo"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620d447645f08f9ead1d039f"
+  },
+  "userID": "943554779035086958",
+  "data": {
+    "player": "eleSTQR"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620f83312bb7b314ff6e3f89"
+  },
+  "userID": "764282246358106135",
+  "data": {
+    "player": "wither5088",
+    "guild": "clover"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621036802bb7b314ff6e4029"
+  },
+  "userID": "845539080611037214",
+  "data": {
+    "player": "xFireAce69"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6210b24c2d358263c2840391"
+  },
+  "userID": "857530391254532117",
+  "data": {
+    "guild": "hackusated"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62113c3218bfea272532d9bc"
+  },
+  "userID": "635853716062208011",
+  "data": {
+    "guild": "injection",
+    "player": "CraftLucasGR",
+    "faction": "demonsdown"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6211533f18bfea272532d9e1"
+  },
+  "userID": "720057358205845546",
+  "data": {
+    "player": "HeriGR96"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621658776892cf114805aa9e"
+  },
+  "userID": "895230462212063274",
+  "data": {
+    "player": "KingMC 109602"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62186acf8913b4897fe06250"
+  },
+  "userID": "624572769484668938",
+  "data": {
+    "player": "ItsMrNatural",
+    "guild": "Unknown"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6218f049c6b14ced2c97c380"
+  },
+  "userID": "888388085761597512",
+  "data": {
+    "guild": "clover",
+    "player": "syrialwithsyrup",
+    "faction": "wow"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621911d8c6b14ced2c97c3e9"
+  },
+  "userID": "870652795412422686",
+  "data": {
+    "player": "SHUBHBOSSYT"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621911e3c6b14ced2c97c3ed"
+  },
+  "userID": "856185016509005824",
+  "data": {
+    "player": "no dmwarrior",
+    "guild": "k1llerz"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62191229c6b14ced2c97c3f2"
+  },
+  "userID": "887024920096296962",
+  "data": {
+    "player": "UsamaBottt",
+    "guild": "spirit"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621a4cc44e270a7badddfcf4"
+  },
+  "userID": "927118622017613865",
+  "data": {
+    "player": "blued3728",
+    "guild": "spirit",
+    "faction": "spirit"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621cf8a6c15dbdb102685717"
+  },
+  "userID": "877082451850178642",
+  "data": {
+    "player": "Dream10323"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621cf8d3c15dbdb10268571a"
+  },
+  "userID": "788473387101192242",
+  "data": {
+    "player": "LoShorts7125"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621e2f8f7b31868bc7c8c624"
+  },
+  "userID": "882485034555166770",
+  "data": {
+    "guild": "hi"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621eb9f8bc47ccb133e1c412"
+  },
+  "userID": "845558095010988062",
+  "data": {
+    "player": "ARandompeg"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621ebfb0bc47ccb133e1c423"
+  },
+  "userID": "702312626147033088",
+  "data": {
+    "player": "T2plf",
+    "guild": "hunter squad"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62212341cfca89b3b25db14a"
+  },
+  "userID": "339087311822258176",
+  "data": {
+    "player": "monstercom1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6223772c9ff791bc111850b5"
+  },
+  "userID": "681081949594320929",
+  "data": {
+    "player": "Xeledark"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62255ec0426e50fbac56c446"
+  },
+  "userID": "725879700974731397",
+  "data": {
+    "guild": "op",
+    "player": "zMxchh"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62260c73426e50fbac56c5d1"
+  },
+  "userID": "691246963336937532",
+  "data": {
+    "player": "nemesis3227",
+    "guild": "forkinium"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62273b136a788da9fdd834d7"
+  },
+  "userID": "861153437973217290",
+  "data": {
+    "player": "MytesticGamr",
+    "guild": "empire"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62273b666a788da9fdd834e8"
+  },
+  "userID": "703914787251290203",
+  "data": {
+    "player": "Chr7st"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622796805b291c82db1d16fb"
+  },
+  "userID": "923654503742455848",
+  "data": {
+    "player": "Blue221838",
+    "guild": "proguild"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622812bd5b291c82db1d17aa"
+  },
+  "userID": "646814330465157151",
+  "data": {
+    "player": "CherubicBoot785",
+    "guild": "Clxver"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62283ce55b291c82db1d17dc"
+  },
+  "userID": "701162469808275577",
+  "data": {
+    "player": "Sanki Insaan561",
+    "guild": "Wild"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c17df94410afa86860f33"
+  },
+  "userID": "904610274521268225",
+  "data": {
+    "guild": "RICE"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622df8d936bb70d13fab64c6"
+  },
+  "userID": "754608403959119975",
+  "data": {
+    "player": "Shortstorm2256"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622e679536bb70d13fab65cf"
+  },
+  "userID": "533782015036751912",
+  "data": {
+    "player": "PythonBoop"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622ee7f848cca805161cd58f"
+  },
+  "userID": "645996927309185062",
+  "data": {
+    "player": "xDDawq"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622ef4f948cca805161cd5aa"
+  },
+  "userID": "638473715935346710",
+  "data": {
+    "player": "xmxgaa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622efb7448cca805161cd5bf"
+  },
+  "userID": "463647960513904640",
+  "data": {
+    "player": "TechNotKyori821"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622f615977c294fea00770a0"
+  },
+  "userID": "907261837723172885",
+  "data": {
+    "player": "TronOnly",
+    "guild": "Empire"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622f61ba77c294fea00770b0"
+  },
+  "userID": "798147659768528946",
+  "data": {
+    "player": "Groovybark84440",
+    "guild": "Empire"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622f678c551a0f2c3359800b"
+  },
+  "userID": "814854033176002611",
+  "data": {
+    "guild": "Lxgion",
+    "player": "KieferBruecke64"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622f9d3d551a0f2c335980be"
+  },
+  "userID": "852743894029828158",
+  "data": {
+    "player": "Raxptor"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62300b17551a0f2c33598133"
+  },
+  "userID": "804942996184760322",
+  "data": {
+    "player": "TakedownPlace26"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6230de819687f02f0481815a"
+  },
+  "userID": "940055084463702037",
+  "data": {
+    "player": "razeley"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6231e433c45f22f7e2488141"
+  },
+  "userID": "953543994799980564",
+  "data": {
+    "player": "TakedownPlace26"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623397865d4a8f6e03e3853c"
+  },
+  "userID": "730447824340254740",
+  "data": {
+    "player": "P1umbingRat"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623620c468d2e8103cd6a720"
+  },
+  "userID": "783581287269007371",
+  "data": {
+    "player": "Fastn Up",
+    "guild": "spirit"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62372d1e72d54bd8c6b5a689"
+  },
+  "userID": "873063691648659456",
+  "data": {
+    "player": "Hphrishiop13"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623746ac72d54bd8c6b5a737"
+  },
+  "userID": "886514761381085207",
+  "data": {
+    "player": "IBoss xD5466",
+    "guild": "spirit",
+    "faction": "RaidersPOV"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6238d60097bd5948fa498804"
+  },
+  "userID": "440148654268088320",
+  "data": {
+    "player": "daddynaieem"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6239628edc59df092b5fb804"
+  },
+  "userID": "817077578724016189",
+  "data": {
+    "guild": "BlockGameSweats"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623a92960f65a8e853567c9e"
+  },
+  "userID": "786250496436338698",
+  "data": {
+    "player": "mouse1154112",
+    "guild": "grumpy"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623ab53a0f65a8e853567cf4"
+  },
+  "userID": "704210494348853268",
+  "data": {
+    "player": "DEMONWIZARD4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623ab5790f65a8e853567cff"
+  },
+  "userID": "876048116179152936",
+  "data": {
+    "player": "CxlBoardBoxz",
+    "guild": "moons"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623ade36efb6ee59625c3593"
+  },
+  "userID": "823057907285229589",
+  "data": {
+    "player": "Aydinfinity2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623d217e34a608249da0ff3a"
+  },
+  "userID": "947819783678734336",
+  "data": {
+    "guild": "LEGEND"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623f046f0e6a5e664e022960"
+  },
+  "userID": "906818839495467049",
+  "data": {
+    "player": "Golu7336"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fc8b566ab08e567ce7f04"
+  },
+  "userID": "722080618351165531",
+  "data": {
+    "player": "Tr3pic4333"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624312f629f44b427e72e060"
+  },
+  "userID": "803908243323748353",
+  "data": {
+    "player": "chestnutyoyo322"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6243154f29f44b427e72e092"
+  },
+  "userID": "692605304910905355",
+  "data": {
+    "player": "ExplodingTNT253"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624326e870a86d65c9139dfa"
+  },
+  "userID": "435409423238823936",
+  "data": {
+    "guild": "Forkinium",
+    "player": "A17Forkybest303"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624326f770a86d65c9139dff"
+  },
+  "userID": "726833431836622921",
+  "data": {
+    "player": "Mrboy99",
+    "guild": "op"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62433bdd70a86d65c9139ee6"
+  },
+  "userID": "720047822757560370",
+  "data": {
+    "player": "chxetahh",
+    "guild": "Sanctuary"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6248b3d33dfa199879787537"
+  },
+  "userID": "818494318955462677",
+  "data": {
+    "player": "rezxfn",
+    "guild": "krypto ii"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624955364bcdbbbae0ee0eb7"
+  },
+  "userID": "836978780081881159",
+  "data": {
+    "player": "Babu sharma",
+    "guild": "spirit"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624aea84f135c0ef5a32d116"
+  },
+  "userID": "895341873055551558",
+  "data": {
+    "player": "ShreyanshOp27"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624bcd96f135c0ef5a32d4db"
+  },
+  "userID": "780794224177577994",
+  "data": {
+    "player": "XxCyberxX8485"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624c644575bc7d10f53f9dde"
+  },
+  "userID": "818856266721132564",
+  "data": {
+    "player": "TungMCVN3337"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624d668a88cc4dbb84a8d684"
+  },
+  "userID": "920267572866351115",
+  "data": {
+    "player": "justok330XD",
+    "guild": "nothing"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624e9e76a68b4a6dc1fe1ec0"
+  },
+  "userID": "930311814787526776",
+  "data": {
+    "player": "temdem op"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624fef23cdc6da11a09cdc85"
+  },
+  "userID": "819535364254728205",
+  "data": {
+    "player": "Temdem op"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625007e9cdc6da11a09cdd47"
+  },
+  "userID": "528774356248166400",
+  "data": {
+    "player": "N00BS7507"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625041f2c3fe03ae3b7ee67c"
+  },
+  "userID": "884099539617841162",
+  "data": {
+    "player": "21"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62527fbbab078be712ed6eb5"
+  },
+  "userID": "738802319163916309",
+  "data": {
+    "player": "DarkGamingYT486"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62528f97ab078be712ed6ef1"
+  },
+  "userID": "939941761176989727",
+  "data": {
+    "player": "saksham4706",
+    "guild": "clover"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625397c86898a85c57390f2f"
+  },
+  "userID": "602663814638469180",
+  "data": {
+    "player": "yzqntm"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6253a26c6898a85c57390f5f"
+  },
+  "userID": "834996468988379156",
+  "data": {
+    "player": "its oak play"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6256467f9c460cb40c0c6164"
+  },
+  "userID": "800387794701778944",
+  "data": {
+    "guild": "Spirit",
+    "player": "OnesAmvYT"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6257d4da24064bd9fcf70235"
+  },
+  "userID": "839794452897857576",
+  "data": {
+    "player": "Soulsnatcher451"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6258a8a824064bd9fcf70661"
+  },
+  "userID": "853370836785299457",
+  "data": {
+    "player": "acyclicbarley"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625ae74408c2868e7a9d736d"
+  },
+  "userID": "898506833050873896",
+  "data": {
+    "player": "Lion power8111"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625c4255a77e5ffa20ed6127"
+  },
+  "userID": "923721183248150588",
+  "data": {
+    "player": "SK1ILL7131",
+    "guild": "Platinum"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625c4e14a77e5ffa20ed61a1"
+  },
+  "userID": "739976464539189379",
+  "data": {
+    "player": "ItzLeolionz",
+    "guild": "zerolife"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625c8080a77e5ffa20ed62b2"
+  },
+  "userID": "603637069956382753",
+  "data": {
+    "player": "jameramm"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625d71015a319c57e3559b3b"
+  },
+  "userID": "541934348413173760",
+  "data": {
+    "player": "SxeatyG1rl"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6261bcb0b8295c5c97ce661b"
+  },
+  "userID": "858377829308432384",
+  "data": {
+    "player": "Goopy3543",
+    "guild": "Unknown"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6261d7b81576acd7ef939aa4"
+  },
+  "userID": "925953430273536042",
+  "data": {
+    "player": "Miksic16",
+    "guild": "Warriors"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62690dabc4a028a73e07da06"
+  },
+  "userID": "939596394631688252",
+  "data": {
+    "player": "SOWAD TNT xd",
+    "guild": "Oceanic",
+    "faction": "RivalX"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626b8cf7d16f3c7ef4d5cd1c"
+  },
+  "userID": "501393717568208896",
+  "data": {
+    "guild": "Krypto II",
+    "player": "Operatin"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626b9014d16f3c7ef4d5cd6a"
+  },
+  "userID": "615106230335176764",
+  "data": {
+    "player": "ItzMaxcalibur",
+    "guild": "BlueMoon"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626b94c4d16f3c7ef4d5cd86"
+  },
+  "userID": "864780754722488321",
+  "data": {
+    "player": "galact rz"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626c10a2ab87e4baf9581ce2"
+  },
+  "userID": "899195658064498748",
+  "data": {
+    "player": "Akash5671812",
+    "faction": "Rare",
+    "guild": "Sith"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6274c02476228a1c6f4ea7bb"
+  },
+  "userID": "954015781572726864",
+  "data": {
+    "player": "Arpas4806",
+    "guild": "Spirit"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6274c04576228a1c6f4ea7bf"
+  },
+  "userID": "694867415565336596",
+  "data": {
+    "player": "DREAMSBRO6270",
+    "guild": "Spirit"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6274fd3876228a1c6f4ea912"
+  },
+  "userID": "853599834556858378",
+  "data": {
+    "player": "Kraten111",
+    "guild": "spirit"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62766bf3ac4f370f8d4240a2"
+  },
+  "userID": "900365802895708172",
+  "data": {
+    "player": "Overduekoala262",
+    "guild": "sith"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627696cdac4f370f8d4241d4"
+  },
+  "userID": "865677051875688512",
+  "data": {
+    "guild": "godlike",
+    "player": "Aamir shaji"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627854d6fdf02e03fde65704"
+  },
+  "userID": "913618154318618645",
+  "data": {
+    "player": "Darth Vedant669",
+    "guild": "Imperium"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6278df8c75e927ccc14c2a4b"
+  },
+  "userID": "886979534396723332",
+  "data": {
+    "player": "combat rush5509",
+    "guild": "sith",
+    "faction": "Combat rush7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6279572375e927ccc14c2d5d"
+  },
+  "userID": "828787711535480832",
+  "data": {
+    "guild": "infamous",
+    "player": "ireach iazv"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62798b2775e927ccc14c2e31"
+  },
+  "userID": "777429023176261633",
+  "data": {
+    "player": "Corkle99"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6279e7e675e927ccc14c2ef9"
+  },
+  "userID": "914858308370841640",
+  "data": {
+    "player": "ItzMCLeviXYT"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627a05363e0bbe2b58384585"
+  },
+  "userID": "913813123926994994",
+  "data": {
+    "player": "Mr Beast gameyt"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b436b3e0bbe2b58384b05"
+  },
+  "userID": "859698511183085599",
+  "data": {
+    "player": "ffiaa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627cbf84c6343c84a1afc2bb"
+  },
+  "userID": "956482244195794965",
+  "data": {
+    "player": "iiiBl4de",
+    "guild": "clxver"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627d178dc6343c84a1afc484"
+  },
+  "userID": "814454197277556837",
+  "data": {
+    "player": "CuteTeddy12345",
+    "guild": "spirit"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628049f7b9eb5bee1ebf9043"
+  },
+  "userID": "873527538155151380",
+  "data": {
+    "player": "iiJiraiya"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6282b0806ca930319ace536a"
+  },
+  "userID": "529076401177886735",
+  "data": {
+    "player": "XxAnimatorxX275"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283c170f2b6714977d27741"
+  },
+  "userID": "707927513459982446",
+  "data": {
+    "player": "xKaorii"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62874b9ff51be7a40f661e18"
+  },
+  "userID": "901441216061792296",
+  "data": {
+    "player": "naitik24"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287651ff51be7a40f661ec6"
+  },
+  "userID": "879710687801249813",
+  "data": {
+    "player": "Gamerindrajeet"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b9704259dc0a6a5fedd2d"
+  },
+  "userID": "909063993291857970",
+  "data": {
+    "player": "ToxicggPE",
+    "guild": "Flames"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628ba6a2259dc0a6a5feddaf"
+  },
+  "userID": "856593819322286151",
+  "data": {
+    "player": "zNic0v",
+    "guild": "Delta II"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628bc5bf259dc0a6a5fede48"
+  },
+  "userID": "578138125725990932",
+  "data": {
+    "player": "IAmNon2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628d37eb55c32cbf02174b29"
+  },
+  "userID": "797542381942997013",
+  "data": {
+    "player": "i1ntimidqte"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628dd19ac9307a35f78dead8"
+  },
+  "userID": "839846579287490581",
+  "data": {
+    "guild": "GODLIKE",
+    "player": "ToxicMadmaxYT"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628e91bcc9307a35f78deef9"
+  },
+  "userID": "728684558903672972",
+  "data": {
+    "player": "labracamy",
+    "guild": "clxver"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62912182c8d6008bed4d3200"
+  },
+  "userID": "601587776131170312",
+  "data": {
+    "player": "M3M3 GANG4990",
+    "faction": "zTwisted"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6291883fc8d6008bed4d32d9"
+  },
+  "userID": "703496714270539817",
+  "data": {
+    "player": "SuperPhu2012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629464f122c9ba05c77c2697"
+  },
+  "userID": "590582341437751296",
+  "data": {
+    "player": "yes"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629645803534fccec55444d4"
+  },
+  "userID": "979482174703169597",
+  "data": {
+    "player": "Mqelody"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629670b0c2ac905cd25a9719"
+  },
+  "userID": "825419087726510092",
+  "data": {
+    "player": "icccy078"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62974bc74362f7044692864a"
+  },
+  "userID": "947773235318108200",
+  "data": {
+    "guild": "Riserz",
+    "player": "lolmalu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6298c164f2b08f93903bf555"
+  },
+  "userID": "645685626603044905",
+  "data": {
+    "player": "SkelletKing8600",
+    "guild": "BlueMoon"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629b22159f4bcf722dee4dfa"
+  },
+  "userID": "747767433103933511",
+  "data": {
+    "player": "OPRAZENYT",
+    "guild": "spirit"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629b22429f4bcf722dee4e00"
+  },
+  "userID": "799642283863310357",
+  "data": {
+    "player": "OGGY8365"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629b317b18617caf1aa4398c"
+  },
+  "userID": "883661129946103818",
+  "data": {
+    "player": "PentagonXD5875",
+    "guild": "MadLads"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629c642518617caf1aa43f78"
+  },
+  "userID": "982647495928737823",
+  "data": {
+    "player": "galact rz"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629da72e9f40dcfd7803e08d"
+  },
+  "userID": "750597474967748639",
+  "data": {
+    "player": "Herobrine605123",
+    "guild": "cosmic"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629ed4854f4a1dd3d0cd48ed"
+  },
+  "userID": "680605595425964064",
+  "data": {
+    "player": "DejectedToast20"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629f6ada5ab966f703ffc292"
+  },
+  "userID": "809081613571850240",
+  "data": {
+    "player": "HEROBRINE OP529",
+    "guild": "SITH"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a038c05ab966f703ffc565"
+  },
+  "userID": "902232923732860958",
+  "data": {
+    "guild": "empire"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a3254afb2c0e5aa74830c3"
+  },
+  "userID": "711194480027631636",
+  "data": {
+    "player": "Itzshutplayz"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a596a999f632b3114995bd"
+  },
+  "userID": "981255008668483674",
+  "data": {
+    "player": "nemesis3227",
+    "guild": "forkinium"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a59aa499f632b3114995e2"
+  },
+  "userID": "977777886306115584",
+  "data": {
+    "player": "professor6923",
+    "guild": "Ns!g Formula"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a83e5d03daff659551b078"
+  },
+  "userID": "517708001663123456",
+  "data": {
+    "player": "AltoMitten44836",
+    "guild": "anarchy"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a875eb03daff659551b272"
+  },
+  "userID": "753303928262623293",
+  "data": {
+    "player": "Nemesis6802"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a89a4903daff659551b372"
+  },
+  "userID": "359354208710819842",
+  "data": {
+    "player": "SpindexGFX"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a8afa703daff659551b443"
+  },
+  "userID": "893188622302466098",
+  "data": {
+    "guild": "haven",
+    "player": "I menish"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a9a79b7c5ca6f1f015e966"
+  },
+  "userID": "960832251149582336",
+  "data": {
+    "player": "JOBANYT123",
+    "guild": "K1llerz"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ac00dd4380684210e9570e"
+  },
+  "userID": "880469625672982580",
+  "data": {
+    "player": "zax2009pro7419"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62acb0194b7dae46b3454fac"
+  },
+  "userID": "800966185646686239",
+  "data": {
+    "player": "Axtna02",
+    "guild": "clover"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62af5abcd598bc2049970cf0"
+  },
+  "userID": "670693544494759955",
+  "data": {
+    "player": "xGh0stxd",
+    "guild": "Calamity"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62b0ef965b5e0503a8271d8a"
+  },
+  "userID": "800441420531630111",
+  "data": {
+    "player": "DW1711",
+    "guild": "Warriors"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62b2d7f8276a684d1a7aeb37"
+  },
+  "userID": "480714082492612608",
+  "data": {
+    "player": "zLevii"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62b45fd03dce0d4707e86188"
+  },
+  "userID": "833653518094172200",
+  "data": {
+    "player": "PaleplAyer6735"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62b9a2250431e861dfccc917"
+  },
+  "userID": "978734269675495474",
+  "data": {
+    "player": "moonlight3137"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62b9c3a60431e861dfccca37"
+  },
+  "userID": "972382511697121341",
+  "data": {
+    "player": "SOWAD TNT xd",
+    "guild": "Oceanic"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62b9e7cd0431e861dfcccb80"
+  },
+  "userID": "763086398768807967",
+  "data": {
+    "player": "mririxyt"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62bcd5a15550f4a4e4e0db19"
+  },
+  "userID": "867124648558985236",
+  "data": {
+    "player": "f3l1x6833"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62beaf8e39c9e2e770327dfc"
+  },
+  "userID": "921686561798631424",
+  "data": {
+    "player": "itzNotex yt",
+    "guild": "K1LLERZ"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62bfd5f63e44c1bac005ecfc"
+  },
+  "userID": "974900972327436298",
+  "data": {
+    "player": "yenul12345"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c08136b386c2b17235857c"
+  },
+  "userID": "932717159166144573",
+  "data": {
+    "player": "wryhipergamer",
+    "guild": "h3ll"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c3095348c7f1f316e418d3"
+  },
+  "userID": "691179688286224414",
+  "data": {
+    "player": "Pimora5035"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c32c3f48c7f1f316e41aa2"
+  },
+  "userID": "746728913878908968",
+  "data": {
+    "player": "xxabdul786xx",
+    "guild": "revengers"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c3f97948c7f1f316e41dba"
+  },
+  "userID": "598145388595380246",
+  "data": {
+    "player": "tapskill",
+    "guild": "Formula"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c5d4739ebb4f25ede3ef5d"
+  },
+  "userID": "828624519655718922",
+  "data": {
+    "player": "mildlyx"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c5d9fc9ebb4f25ede3efae"
+  },
+  "userID": "732346714035585095",
+  "data": {
+    "player": "xMxgaa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c6ea936376c4ea13b2e961"
+  },
+  "userID": "764593451148771358",
+  "data": {
+    "player": "MontyYouTube",
+    "guild": "TeamMonty",
+    "faction": "TeamMonty"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c91d1e31fece78ecaf3813"
+  },
+  "userID": "983037669040881734",
+  "data": {
+    "player": "saksham4706"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62cc41434360e02371e16b42"
+  },
+  "userID": "829156831368708126",
+  "data": {
+    "player": "ToedLime4193",
+    "guild": "Boopers"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d2b2a284c0465b045d087b"
+  },
+  "userID": "864731273875685376",
+  "data": {
+    "player": "saksham4706",
+    "guild": "empire"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d40110eab03de6ddf47cb6"
+  },
+  "userID": "980014019438063657",
+  "data": {
+    "player": "Aqua Rhino8193",
+    "guild": "Krypto II"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d50ac3eab03de6ddf483ab"
+  },
+  "userID": "869283526099476500",
+  "data": {
+    "faction": "Yourmum"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d6b013b792eccb4fd3fdcf"
+  },
+  "userID": "950339875226406963",
+  "data": {
+    "player": "anirjeet4",
+    "guild": "Spirit"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d6b5e3b792eccb4fd3fdfe"
+  },
+  "userID": "852029406968283148",
+  "data": {
+    "player": "SHADOW 123733",
+    "guild": "Unknown"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d6ca46b792eccb4fd3fe8c"
+  },
+  "userID": "734514029061472276",
+  "data": {
+    "player": "LionKing7862"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62da8cdd705db525d338ad7c"
+  },
+  "userID": "985942760009908265",
+  "data": {
+    "player": "icccy078",
+    "guild": "issihot"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dbb53474ed1a1459074d59"
+  },
+  "userID": "707045940761985105",
+  "data": {
+    "player": "PeaceMaker8577",
+    "faction": "joinzero",
+    "guild": "Krypto ii"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62de80aac5a03322062712a3"
+  },
+  "userID": "1000729749267681350",
+  "data": {
+    "player": "constellaar"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dfe21e26eccb6475255daf"
+  },
+  "userID": "630063079232897044",
+  "data": {
+    "player": "WesternFeast"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e0214326eccb6475255f2d"
+  },
+  "userID": "784057273374736404",
+  "data": {
+    "player": "ImMCMx"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e3e52932a1ab6c8bbd48e9"
+  },
+  "userID": "971311310610518046",
+  "data": {
+    "player": "PoliteVipul"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e3e75e32a1ab6c8bbd4905"
+  },
+  "userID": "862233780181663744",
+  "data": {
+    "player": "PumpkinFir29419",
+    "guild": "soybean"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e49de0da11c662765f49f5"
+  },
+  "userID": "928843725231226931",
+  "data": {
+    "player": "YTSamDenyel79"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e4a31044936c8e8f734b72"
+  },
+  "userID": "596088567042801845",
+  "data": {
+    "faction": "End lnquisitors",
+    "player": "Majorleague5520"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e4a31c44936c8e8f734b77"
+  },
+  "userID": "590605670643007489",
+  "data": {
+    "faction": "End_Elites",
+    "player": "Vendoskr",
+    "guild": "ICbaToMakeAName"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e4a39744936c8e8f734b88"
+  },
+  "userID": "706245736794292457",
+  "data": {
+    "player": "Nyle Duke"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e6bdd3e4ad461b7996fbed"
+  },
+  "userID": "875165341045641218",
+  "data": {
+    "player": "FireWorks123456"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ed010fac36139c79230704"
+  },
+  "userID": "824956757071101952",
+  "data": {
+    "player": "ComitialGrub859",
+    "guild": "Krypto II"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ed111aac36139c7923076d"
+  },
+  "userID": "701981194971119690",
+  "data": {
+    "player": "hvse75",
+    "guild": "Krypto II"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ee7211225bbb97cd0d0c28"
+  },
+  "userID": "999234300367097897",
+  "data": {
+    "player": "Wat3rlol"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62eeabb1225bbb97cd0d0d5f"
+  },
+  "userID": "906543610269401148",
+  "data": {
+    "player": "Riyan gamer6238",
+    "guild": "RGB",
+    "faction": "RGB"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62eed802d04298bc3285374a"
+  },
+  "userID": "915737584574013501",
+  "data": {
+    "player": "HabibFartKing",
+    "guild": "warriors"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ef4ab9b0680f47efc8288d"
+  },
+  "userID": "736548552800600116",
+  "data": {
+    "player": "AsteroidCart623",
+    "guild": "ZERO"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ef66efb0680f47efc8291e"
+  },
+  "userID": "666303071265226798",
+  "data": {
+    "guild": "MadLads",
+    "player": "RazorCraft1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ef697c20a4c443e98e1c5d"
+  },
+  "userID": "737290091487297577",
+  "data": {
+    "player": "Meowboii1701"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f15135b4a9fbe973340871"
+  },
+  "userID": "926582889028669440",
+  "data": {
+    "player": "Hushlitlebaby76",
+    "faction": "Chemical"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f48be43afa55e0513a1d02"
+  },
+  "userID": "1006931909441495040",
+  "data": {
+    "player": "Aqua Rhino8193",
+    "guild": "Krypto II"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f691ea8d212a3591b69598"
+  },
+  "userID": "934742484221853696",
+  "data": {
+    "player": "RazorCraft1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f6941e8d212a3591b695a7"
+  },
+  "userID": "1000243916655841330",
+  "data": {
+    "player": "braved0nk3y"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f8a7965f1da98e680b98f4"
+  },
+  "userID": "982226706507116574",
+  "data": {
+    "guild": "spirit",
+    "player": "OPRAZENYT"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f9159924c87a1b498b7494"
+  },
+  "userID": "943155762560114688",
+  "data": {
+    "player": "Matasz10",
+    "guild": "Lxgion"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fb34f7abf15e5000978172"
+  },
+  "userID": "488342143895601152",
+  "data": {
+    "player": "JuneJuane",
+    "guild": "Clover"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fbae0babf15e50009783d2"
+  },
+  "userID": "980999881055424582",
+  "data": {
+    "player": "sinetzu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fcab9d48a5aaaa248c3688"
+  },
+  "userID": "727141752934367242",
+  "data": {
+    "player": "newbmaster1234"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fd0a7948a5aaaa248c3881"
+  },
+  "userID": "514442674443517954",
+  "data": {
+    "player": "Stedee8722"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fde3b9a5abcc4ed699a4df"
+  },
+  "userID": "686158747886026753",
+  "data": {
+    "player": "samxey",
+    "guild": "Clover"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ff48b695fb6406f248d7aa"
+  },
+  "userID": "995272125155909752",
+  "data": {
+    "player": "iiibl4de"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63012a99fcadee82e04cc905"
+  },
+  "userID": "690103783073906717",
+  "data": {
+    "player": "Adility8394",
+    "guild": "Lxgion",
+    "faction": "Amogus"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630290c62d15149aff2bae89"
+  },
+  "userID": "655104976208527398",
+  "data": {
+    "player": "C5EA"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6303d210e0712948f77e08cd"
+  },
+  "userID": "886368631506755674",
+  "data": {
+    "player": "notbullslayer"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63043fe2e0712948f77e0a03"
+  },
+  "userID": "605172326417563678",
+  "data": {
+    "player": "zveus"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6304e37d0bd9387ea6c1d985"
+  },
+  "userID": "786584003540549653",
+  "data": {
+    "player": "Hezodam 6966"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63050c010bd9387ea6c1da9a"
+  },
+  "userID": "899601467076395008",
+  "data": {
+    "player": "Babu sharma",
+    "guild": "spirit"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630511780bd9387ea6c1dac6"
+  },
+  "userID": "872452608059645973",
+  "data": {
+    "player": "CamCameo"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630534570bd9387ea6c1db62"
+  },
+  "userID": "368085383596212234",
+  "data": {
+    "player": "RedFox8145"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630542f80bd9387ea6c1db8f"
+  },
+  "userID": "984845716058947655",
+  "data": {
+    "guild": "Lxgion",
+    "player": "BaldChunk3026"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63091aea5162e7e923475642"
+  },
+  "userID": "565162391046979594",
+  "data": {
+    "player": "Th3RealChr1s",
+    "guild": "Sanctuary"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630b4812cfc05cd340f6834d"
+  },
+  "userID": "1012766909252501614",
+  "data": {
+    "player": "rezxfn",
+    "guild": "krypto ii"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630f8ef3acc7d3e961a88cae"
+  },
+  "userID": "743402171248148500",
+  "data": {
+    "guild": "Lxgion",
+    "player": "Anyjaden5555pro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631253145b9442d8b11570b9"
+  },
+  "userID": "966937041873010729",
+  "data": {
+    "player": "ChikuJais55",
+    "guild": "SLAYER"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63127a595b9442d8b11570f0"
+  },
+  "userID": "805157407373787206",
+  "data": {
+    "guild": "Hunter Squad"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63137356e30e66ca2eb1e343"
+  },
+  "userID": "760561391265775667",
+  "data": {
+    "player": "hamster402"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6313a6e2e30e66ca2eb1e3d9"
+  },
+  "userID": "937249618679451689",
+  "data": {
+    "player": "WoolyDolphin800"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6316310f79a8c90ab21fa1cc"
+  },
+  "userID": "1012355004629266503",
+  "data": {
+    "player": "TakedownPlace26"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631cab7c4453b03293532200"
+  },
+  "userID": "929285600954167366",
+  "data": {
+    "player": "KRISHNA VPS"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63207831fd2094c8b577471a"
+  },
+  "userID": "1003881597050830878",
+  "data": {
+    "player": "AKPROBRAWL"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6322707986c25e1c39cc673b"
+  },
+  "userID": "821590166409052232",
+  "data": {
+    "player": "Technodream9155"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6325cfcda7a5fde4de9edd0f"
+  },
+  "userID": "783260144023896084",
+  "data": {
+    "player": "SriharanS"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6326fa88b06200797c00fc69"
+  },
+  "userID": "1003682258349211739",
+  "data": {
+    "player": "FiveBracelet937",
+    "guild": "HELL"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6329e8637863934018385798"
+  },
+  "userID": "866400598425206845",
+  "data": {
+    "player": "PythonBoop",
+    "guild": "Boopers"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632a274c78639340183857f9"
+  },
+  "userID": "665327520396083251",
+  "data": {
+    "player": "soulpvp9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63325b1d94026981d3a92d83"
+  },
+  "userID": "965491144421171220",
+  "data": {
+    "guild": "SWEATS SR"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6332fb5b94026981d3a92e90"
+  },
+  "userID": "737357511950073926",
+  "data": {
+    "player": "SPZdarkapple"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633323bfa38a39a3123c551a"
+  },
+  "userID": "701805424592289793",
+  "data": {
+    "player": "nsvshekiro4344"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63332d00a38a39a3123c5538"
+  },
+  "userID": "1008611147592781895",
+  "data": {
+    "player": "ItzFullskYT"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63457d06f19e67d3300bbfda"
+  },
+  "userID": "655285297675763712",
+  "data": {
+    "player": "JaxFoundHere",
+    "guild": "Hell"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634a871060868721ffd7ebdd"
+  },
+  "userID": "838412964033200148",
+  "data": {
+    "player": "zCqmoo"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634d33e0c602e42ba7689d82"
+  },
+  "userID": "942776733789200484",
+  "data": {
+    "player": "RGB NG",
+    "guild": "RGB",
+    "faction": "RGB"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634d56c3c602e42ba7689ddc"
+  },
+  "userID": "986636710890864702",
+  "data": {
+    "player": "ComitialGrub859"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634d5732c602e42ba7689de2"
+  },
+  "userID": "709066625168572528",
+  "data": {
+    "player": "sameer3301"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635448305ede8c5e3bf3e12b"
+  },
+  "userID": "1018156120889622548",
+  "data": {
+    "player": "star warrior881",
+    "faction": "death"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635448f95ede8c5e3bf3e137"
+  },
+  "userID": "812721380410785793",
+  "data": {
+    "faction": "Death"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636041db1fefbfa528841958"
+  },
+  "userID": "1003412183075528756",
+  "data": {
+    "player": "wryhipergamer"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6361c08dfafdaa8160dc95f6"
+  },
+  "userID": "997886082983137366",
+  "data": {
+    "player": "xKanek1x"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636264d38e30e32398c8f3ac"
+  },
+  "userID": "816896298363387934",
+  "data": {
+    "player": "xKnqll"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63652d1eb53d459700fd36dc"
+  },
+  "userID": "526801212377661480",
+  "data": {
+    "player": "PunitMaster7476"
+  },
+  "__v": 0
+}]
