@@ -1,6 +1,6 @@
 # NetherGames Statistics Bot
 
-![Logo](https://cdn.discordapp.com/avatars/863712579599597578/fce6122715e2c3ebf9a6e8027565d6e6.png)<br>
+![Logo](https://i.imgur.com/rHCguwn.png)<br>
 **by Melvin#5155**
 
 
@@ -41,4 +41,4 @@ Thanks so much for the support, I hope you like my code :)
 &nbsp;&nbsp;➜ Sep: **25,039**   
 
 **Server count history**  
-![history](https://cdn.discordapp.com/attachments/957460872928841738/1029759752089124955/unknown.png)
+![history](https://i.imgur.com/iAvgHh0.png)
